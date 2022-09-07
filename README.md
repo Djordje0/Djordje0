@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Djordje Ruzojcic</h1>
 <h3 align="center">A programmer from Doboj, BiH</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/86136535/143722927-430bb343-9229-48f5-ae58-b0f4b4f41ba7.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djordje0&label=Profile%20views&color=0e75b6&style=flat" alt="djordje0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djordje0" alt="djordje0" /></a> </p>
