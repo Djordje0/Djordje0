@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python and JS**
 
+- 👨‍💻I’m now working on building my **portfolio**
+
 - 💬 Ask me about **HTML, CSS, QBasic/QB64, JS and Python**
 
 - 📫 My e-mail **djordjeruzojcic@gmail.com**
