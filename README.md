@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and JS**
 
-- 👨‍💻I’m now working on building my **portfolio**
+- 👨‍💻 I'm currently preparing for the **competition**
 
 - 💬 Ask me about **HTML, CSS, QBasic/QB64, JS and Python**
 
