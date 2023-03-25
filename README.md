@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C/C++ and JS**
 
-- 👨‍💻 I'm currently preparing for the **competition**
+- 👨‍💻 I'm currently on regional school competition
 
 - 💬 Ask me about **HTML, CSS, QBasic/QB64**
 
