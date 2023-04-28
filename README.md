@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djordje0" alt="djordje0" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++ and JS**
+- 🌱 I’m currently learning **C/C++** and **JS**
 
-- 👨‍💻 I'm currently learning and working
+- 👨‍💻 I'm currently learning
 
-- 💬 Ask me about **HTML, CSS, QBasic/QB64**
+- 💬 Ask me about **HTML, CSS, QBasic/QB64, C/C++**
 
 - 📫 My e-mail **djordjeruzojcic@gmail.com**
 
