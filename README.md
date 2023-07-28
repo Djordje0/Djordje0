@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djordje0" alt="djordje0" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**, **C/C++**
+- 🌱 I’m currently learning **C/C++**
 
 - 👩‍💻👨‍💻 I’m looking to collaborate on **anything**
 
