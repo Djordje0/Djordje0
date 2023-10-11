@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Đorđe Ružojčič</h1>
 <h3 align="center">A 15 years old programmer from Doboj, BiH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djordje0&label=Profile%20views&color=00ff1e&style=plastic" alt="djordje0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djordje0" alt="djordje0" /></a> </p>
 
 - 🌱 I’m currently learning **C/C++**
 
