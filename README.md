@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=Djordje0&icon=3&color=12)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning C/C++<br>💬 Ask me about QB64, C/C++<br>⚡ Fun fact The first computer “bug” was an actual real-life bug
+🌱 I am interested in learning new technologies<br>💬 Ask me about QB64, C/C++, HTML/CSS<br>
 
 
 ## 🌐 Socials:
